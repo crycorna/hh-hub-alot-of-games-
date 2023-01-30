@@ -18,8 +18,8 @@ local Tab3Section = Tab3:NewSection("Others GUI'S")
  
 ---Buttons
  
- Tab1Section:NewButton("Adopt Me! (Key system)","No description",function()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+ Tab1Section:NewButton("chaos hub MADE BY HH","No description",function()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/crycorna/CHAOS-HH-ON-TOP/main/Chaos%20hub", true))()
 end)
 
 Tab1Section:NewButton("Brookhaven🏡RP","No description",function()
